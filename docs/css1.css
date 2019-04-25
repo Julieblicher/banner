@@ -11,28 +11,44 @@
 
 @keyframes red-to-blue {
 	0% {background:#e7d9ac;}
-	5% {font-size:1em;}
-	10% {font-size:1.3em;}
-	15%{font-size:1em;}
-	20% {font-size:1.3em; }
+	5% {font-size:1em;
+		background:#EF6C38}
+	10% {font-size:1.3em;
+		background:#e7d9ac;}
+	15%{font-size:1em;
+		background:#EF6C38}
+	20% {font-size:1.3em; 
+		background:#e7d9ac;}
 	25% {background:#EF6C38;
 		font-size:1em;}
-	30% {font-size:1.3em;}
-	35% {font-size:1em;}
-	40% {font-size:1.3em;}
-	45% {font-size:1em;}
+	30% {font-size:1.3em;
+		background:#e7d9ac;}
+	35% {font-size:1em;
+		background:#EF6C38}
+	40% {font-size:1.3em;
+		background:#e7d9ac;}
+	45% {font-size:1em;
+		background:#EF6C38}
 	50%{background: #e7d9ac;
 		font-size: 1.3em;}
-	55%{font-size:1em;}
-	60% {font-size:1.3em;}
-	65%{font-size:1em;}
-	70%{font-size:1.3em;}
+	55%{font-size:1em;
+		background:#EF6C38}
+	60% {font-size:1.3em;
+		background:#e7d9ac;}
+	65%{font-size:1em;
+		background:#EF6C38}
+	70%{font-size:1.3em;
+		background:#e7d9ac;}
 	75% {background: #EF6C38;
 		font-size:1em;}
-	80%{font-size:1.3em;}
-	85% {font-size:1em;}
-	90%{font-size:1.3em;}
-	95% {font-size:1em;}
+	80%{font-size:1.3em;
+		background:#e7d9ac;}
+	85% {font-size:1em;
+		background:#EF6C38}
+	90%{font-size:1.3em;
+		background:#e7d9ac;}
+	95% {font-size:1em;
+		background:#EF6C38}
 	100% {background: #e7d9ac;
 		font-size:1.3em;}
 }
